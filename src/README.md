@@ -1,49 +1,38 @@
 ---
 home: true
-layout: BlogHome
+# layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
-projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+title: Vechis的博客
+heroImage: ./logo.png
+heroImageDark: "/logo-dark.png"
+heroText: 全栈工程师
+heroFullScreen: false
+tagline:  个人博客站 🧙‍♂️
+actions:
+  - text: 🍻 我是谁
+    link: /intro.md
+    type: primary
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+features:
+  - title: 博文
+    icon: blog
+    details: 可能想要记录一些技术文章吧，太散乱了，借着搭起博客且同步Github和本地自动备份机制，将各块知识点汇集起来
+    link: /dev/
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+  - title: 软考
+    icon: bed
+    details: 关于报名 软件设计师 四次但四起因睡过头而错过但决心再来一次的可能不知道什么时候又废掉的板块 妈蛋这次必过 我冲了！
+    link: /ruankao/
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+  - title: 雅思
+    icon: wheelchair-alt
+    details: 职场人奋起第一步💪 决心改变的第一选择☝，那就是拿起又放下的英语四级单词本，开始abandon...
+    link: /ielts/
 
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
-
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  - title: 随笔
+    icon: file-text
+    details: 正经人他写日记吗✍
+    link: /diary/
 
 footer: <a href="https://beian.miit.gov.cn/">闽ICP备2023011157号-1</a>
 copyright: Copyright © 2024 Vechis
----
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
