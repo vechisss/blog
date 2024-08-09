@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7f470eb-1a9d-4df5-b81c-243d33eae349" name="blog" url="http://vechis.com">
+        <fileTransfer accessType="SFTP" host="120.77.180.193" port="22" sshConfigId="3a206948-0d79-4c94-8e39-a3a7c51530e5" sshConfig="root@120.77.180.193:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
