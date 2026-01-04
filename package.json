@@ -20,4 +20,5 @@
   "dependencies": {
     "@waline/client": "^3.3.0"
   }
+  
 }
