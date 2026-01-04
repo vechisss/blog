@@ -1,6 +1,6 @@
 ## 个人博客项目
 
- - 项目地址： [vechis.com](https://www.vechis.com) | 目前暂停服务器
+ - 项目地址： [vechis.com](https://www.vechis.com) | 2025年9月 - 暂停服务器
 
 ### 功能
   - 📑 **文档驱动**
