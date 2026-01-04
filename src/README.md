@@ -21,17 +21,16 @@ features:
 
   - title: 软考
     icon: bed
-    details: 关于报名 软件设计师 四次但四起因睡过头而错过但决心再来一次的可能不知道什么时候又废掉的板块 妈蛋这次必过 我冲了！
+    details: 关于报名 软件设计师 
     link: /ruankao/
 
   - title: 雅思
     icon: wheelchair-alt
-    details: 职场人奋起第一步💪 决心改变的第一选择☝，那就是拿起又放下的英语四级单词本，开始abandon...
+    details: abandon...
     link: /ielts/
 
   - title: 随笔
     icon: file-text
-    details: 正经人他写日记吗✍
     link: /diary/
 
 footer: <a href="https://beian.miit.gov.cn/">闽ICP备2023011157号-1</a>
